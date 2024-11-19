@@ -2,7 +2,7 @@
   <h1>Comments</h1>
 </div>
 
-<div align="center">
+
 <img src="Images/1.jpg" width="200" height="300" /> <img src="Images/2.jpg" width="200" height="300" />
 <img src="Images/3.jpg" width="200" height="300" /> <img src="Images/4.jpg" width="200" height="300" />
 </div>
