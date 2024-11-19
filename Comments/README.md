@@ -20,6 +20,10 @@ Once your logged into your bjorn navigate to /home/bjorn/Bjorn/resources/comment
 
 It will ask you to overwrite, hit yes and then go reboot your bjorn in the webui of bjorn. 
 
+<br>
+
+### I'm also working a writeup on how to edit/change the .json file for comments as you must keep the structure intact.
+
 ---
 
 🌐 Community
