@@ -27,11 +27,26 @@ Offers a Tamagotchi-like interface, blending functionality and fun.
 Runs on lightweight hardware, such as a Raspberry Pi zero with a 2.13-inch e-Paper HAT.
 This repository enables the community to expand, enhance, and customize Bjorn, ensuring it evolves into an even more customizable tool.<br>
 **More about Bjorn can be found <a href=https://github.com/infinition/Bjorn>HERE</a>**
-
+___
 
 🎨Theming Bjorn to match your preferences:
 <br>
 Change the visual appearance, animations, fonts, comments and more.
+<br>
+
+- [Comments](#Comments)  
+   *Customize the stuff Bjorn says on the screen. A step by step guide and some <br> premade comments.json files*
+
+- [Fonts](#Fonts)  
+   *Step-by-step instructions to add fonts and change them.*
+
+- [Static Icons](#Icons)  
+   *Change the icons used in bjorn's legend.*
+
+- [Animations](#Animations)  
+   *Change the images used for bjorn himself.*
+
+--- 
 
 
 🚀 Boost Bjorn’s functionality with: (Coming Soon)
@@ -40,6 +55,8 @@ Learn how to adjust interaction levels, scan frequencies, behaviors and more.
 New actions, additional protocols, attacks and tools .
 Advanced Reporting, to possibly visualize data or generate better in-depth reports.
 Possible workflow Optimization to handle larger and more complex networks.
+
+---
 
 🌐 Community
 <br>
