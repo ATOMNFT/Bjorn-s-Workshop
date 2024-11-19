@@ -34,7 +34,7 @@ ___
 Change the visual appearance, animations, fonts, comments and more.
 <br>
 
-- [Comments](#comments)  
+- [Comments](https://github.com/ATOMNFT/Bjorns-Workshop/tree/main/Comments)  
    *Customize the stuff Bjorn says on the screen. A step by step guide and some <br> premade comments.json files*
 
 - [Fonts](#fonts)  
