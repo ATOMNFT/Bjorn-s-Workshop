@@ -2,8 +2,10 @@
   <h1>Comments</h1>
 </div>
 
+<div align="center">
 <img src="Images/1.jpg" width="200" height="300" /> <img src="Images/2.jpg" width="200" height="300" />
 <img src="Images/3.jpg" width="200" height="300" /> <img src="Images/4.jpg" width="200" height="300" />
+</div>
 
 To use the file you must remove the "Viking-Styled-" and just leave comments. Make sure it stays as a .json file.
 <br>
