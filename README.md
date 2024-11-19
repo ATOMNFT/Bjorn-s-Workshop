@@ -34,16 +34,16 @@ ___
 Change the visual appearance, animations, fonts, comments and more.
 <br>
 
-- [Comments](#Comments)  
+- [Comments](#comments)  
    *Customize the stuff Bjorn says on the screen. A step by step guide and some <br> premade comments.json files*
 
-- [Fonts](#Fonts)  
+- [Fonts](#fonts)  
    *Step-by-step instructions to add fonts and change them.*
 
-- [Static Icons](#Icons)  
+- [Static Icons](#icons)  
    *Change the icons used in bjorn's legend.*
 
-- [Animations](#Animations)  
+- [Animations](#animations)  
    *Change the images used for bjorn himself.*
 
 --- 
