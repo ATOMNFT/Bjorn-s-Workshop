@@ -2,6 +2,8 @@
   <h1>Comments</h1>
 </div>
 
+![1](Images/1.png) ![2](Images/2.png) ![3](Images/3.png) ![4](Images/4.png)
+
 To use the file you must remove the "Viking-Styled-" and just leave comments. Make sure it stays as a .json file.
 <br>
 
