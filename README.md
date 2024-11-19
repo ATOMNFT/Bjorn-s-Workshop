@@ -1,7 +1,7 @@
 ![Header](Images/BjornsWorkshop.png)
 <br>
 <div align="center">
-<h4>repo under construction</h4>
+<h4>Repo under construction</h4>
 </div>
 
   ---
