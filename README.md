@@ -35,7 +35,7 @@ Change the visual appearance, animations, fonts, comments and more.
 <br>
 
 - [Comments](https://github.com/ATOMNFT/Bjorns-Workshop/tree/main/Comments)  
-   *Customize the stuff Bjorn says on the screen. A step by step guide and some <br> premade comments.json files*
+   *Customize the stuff Bjorn says on the screen. A step by step guide and a <br> viking themed comments.json file*
 
 - [Fonts](#fonts)  
    *Step-by-step instructions to add fonts and change them.*
