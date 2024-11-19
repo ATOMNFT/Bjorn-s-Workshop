@@ -2,7 +2,7 @@
   <h1>Comments</h1>
 </div>
 
-To use the file you must rename the file and remove the "Viking-Styled-". Make sure it stays as a .json file.
+To use the file you must remove the "Viking-Styled-" and just leave comments. Make sure it stays as a .json file.
 <br>
 To upload the file, on a windows pc download or open filezilla and connect to your bjorn using the credentials 
 you setup during installation of bjorn. the address should be bjorn.local
