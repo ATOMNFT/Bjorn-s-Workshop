@@ -1,3 +1,5 @@
+![Header](Images/status-banner.png)
+
 <div align="center">
   <h1>Status Images & Icons</h1>
 
