@@ -16,7 +16,7 @@ Open an SSH terminal (e.g., PuTTY) and execute the following commands:
 - chmod +x install_comments.sh
 - sudo ./install_comments_fixed.sh
 
-<img src="Images/script-image.jpg" width="200" height="300" />
+<img src="Images/script-image.jpg" width="500" height="258" />
 
 ---
 ## Manual installation
