@@ -58,6 +58,12 @@ Possible workflow Optimization to handle larger and more complex networks.
 
 ---
 
+## Shoutouts! 📢
+<b>A huge thank you goes to <a href=https://github.com/infinition>infinition</a> for creating such an amazing piece of software! </b> 
+
+
+---
+
 🌐 Community
 <br>
 Join the Bjorn community to share ideas and get updates:
