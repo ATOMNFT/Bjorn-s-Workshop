@@ -43,7 +43,7 @@ Change the visual appearance, animations, fonts, comments and more.
 - [Static Icons](#icons)  
    *Change the icons used in bjorn's legend.*
 
-- [Animations](#animations)  
+- [Status Images](#statusimages)  
    *Change the images used for bjorn himself.*
 
 --- 
