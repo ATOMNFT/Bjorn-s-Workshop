@@ -43,7 +43,7 @@ Change the visual appearance, animations, fonts, comments and more.
 - [Static Icons](#icons)  
    *Change the icons used in bjorn's legend.*
 
-- [Status Images](#statusimages)  
+- [Status Images](https://github.com/ATOMNFT/Bjorns-Workshop/tree/main/Status%20Images)  
    *Change the images used for bjorn himself.*
 
 --- 
