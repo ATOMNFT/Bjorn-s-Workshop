@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Status Images & Icons</h1>
 
-<img src="Images/#.jpg" width="200" height="300" /> <img src="Images/#.jpg" width="200" height="300" />
+<img src="Images/idle-tent.jpg" width="300" height="470" /> <img src="Images/turkey-leg.jpg" width="300" height="470" />
 </div>
 
 ## Custom Images
