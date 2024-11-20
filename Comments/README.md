@@ -14,7 +14,7 @@ Download the install_comments.sh script and transfer it to the /home/bjorn direc
 Open an SSH terminal (e.g., PuTTY) and execute the following commands:
 <br>
 - chmod +x install_comments.sh
-- sudo ./install_comments_fixed.sh
+- sudo ./install_comments.sh
 
 <img src="Images/script-image.jpg" width="500" height="258" />
 
