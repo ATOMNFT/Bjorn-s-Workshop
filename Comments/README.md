@@ -5,6 +5,21 @@
 <img src="Images/3.jpg" width="200" height="300" /> <img src="Images/4.jpg" width="200" height="300" />
 </div>
 
+## ⬆ Update Highlights 11/19/24 ⬆ <br> Added install script
+I have developed a streamlined installation script to simplify the setup process with minimal user input.
+<br>
+To use it:
+<br>
+Download the install_comments.sh script and transfer it to the /home/bjorn directory on your Raspberry Pi. Tools like FileZilla or similar file transfer software are recommended for this step.
+Open an SSH terminal (e.g., PuTTY) and execute the following commands:
+<br>
+- chmod +x install_comments.sh
+- sudo ./install_comments_fixed.sh
+
+<img src="Images/script-image.jpg" width="200" height="300" />
+
+---
+## Manual installation
 To use the file you must remove the "Viking-Styled-" and just leave comments. Make sure it stays as a .json file.
 <br>
 
